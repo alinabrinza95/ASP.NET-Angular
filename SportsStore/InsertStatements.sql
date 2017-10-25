@@ -1,0 +1,1 @@
+﻿INSERT INTO Supplier (SupplierId,City,Name,State) VALUES (1,'San Jose','Splash Duses','CA');
